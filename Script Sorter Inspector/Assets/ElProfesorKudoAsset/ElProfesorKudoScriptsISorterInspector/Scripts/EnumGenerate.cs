@@ -1,0 +1,26 @@
+public enum TypeWanted
+{
+	CustomComponentHandler,
+	TypeOfHandler,
+	Utils,
+	AbstractElProfesorKudo,
+	BaseParticleFluidSourceManager,
+	ElProfesorKudoClassA,
+	ElProfesorKudoClassB,
+	ElProfesorKudoClassC,
+	ElProfesorKudoClassD,
+	ElProfesorKudoCobaComponent,
+	ElProfesorKudoCobaDeformableFixationComponent,
+	ElProfesorKudoCobaMaterialComponent,
+	ElProfesorKudoGraspedBodyComponent,
+	ElProfesorKudoPaintableComponent,
+	ElProfesorKudoRenderMeshComponent,
+	ElProfesorKudoTetMeshComponent,
+	ElProfesorKudoTetMeshDistanceFieldComponent,
+	ElProfesorKudoTriMeshComponent,
+	OrganHapticsConfigurator,
+	SoftBodyAnatomy,
+	SoftBodyCollisionTag,
+	MonoBehaviour,
+	Component
+}
